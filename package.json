@@ -4,7 +4,7 @@
   "description": "Kevin SHeehan description 15532211563443",
   "author": "kevin224860",
   "license": "MIT",
-  "repository": "https://github.com/kevin224860/lab5",
+  "repository": "kevin224860/lab5",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
