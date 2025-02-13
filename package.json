@@ -1,10 +1,10 @@
 {
-  "name": "reactjs-tabbedpane-component",
+  "name": "lab5",
   "version": "1.0.19",
   "description": "A tabbed pane component using React.js",
-  "author": "adafycheng",
+  "author": "kevin224860",
   "license": "MIT",
-  "repository": "adafycheng/reactjs-tabbedpane-component",
+  "repository": "kevin224860/lab5",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

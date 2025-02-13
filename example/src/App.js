@@ -1,7 +1,7 @@
 import React from 'react'
 
-import TabbedPaneComponent from 'reactjs-tabbedpane-component'
-import 'reactjs-tabbedpane-component/dist/index.css'
+import TabbedPaneComponent from 'lab5'
+import 'lab5/dist/index.css'
 
 const contentData = {
   contents: [

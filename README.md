@@ -1,13 +1,13 @@
-# reactjs-tabbedpane-component
+# lab5
 
 > A tabbed pane component using React.js
 
-[![NPM](https://img.shields.io/npm/v/reactjs-tabbedpane-component.svg)](https://www.npmjs.com/package/reactjs-tabbedpane-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/lab5.svg)](https://www.npmjs.com/package/lab5) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save reactjs-tabbedpane-component
+npm install --save lab5
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save reactjs-tabbedpane-component
 ```jsx
 import React, { Component } from 'react'
 
-import TabbedPane from 'reactjs-tabbedpane-component'
-import 'reactjs-tabbedpane-component/dist/index.css'
+import TabbedPane from 'lab5'
+import 'lab5/dist/index.css'
 
 const contentData = {
   contents: [
@@ -56,4 +56,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [adafycheng](https://github.com/adafycheng)
+MIT © [kevin224860](https://github.com/kevin224860)
