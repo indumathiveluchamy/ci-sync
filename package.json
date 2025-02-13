@@ -4,7 +4,7 @@
   "description": "A tabbed pane component using React.js",
   "author": "kevin224860",
   "license": "MIT",
-  "repository": "kevin224860/lab5",
+  "repository": "https://github.com/kevin224860/lab5",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
